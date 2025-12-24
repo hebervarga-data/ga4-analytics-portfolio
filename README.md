@@ -24,7 +24,7 @@ Este proyecto muestra un flujo completo de analítica utilizando datos de evento
 
 ---
 
-## 🎯 Project Goal | Objetivo
+## Project Goal | Objetivo
 
 **EN**  
 Design a scalable analytics pipeline that separates raw data from business metrics, ensuring consistency and performance.
@@ -34,7 +34,7 @@ Diseñar un pipeline de analítica escalable que separe datos crudos de métrica
 
 ---
 
-## 🗂️ Project Structure | Estructura del Proyecto
+## Project Structure | Estructura del Proyecto
 
 ```text
 ga4-analytics-portfolio/
